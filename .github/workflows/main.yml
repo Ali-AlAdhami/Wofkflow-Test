@@ -21,7 +21,7 @@
 #     - name: Run tests
 #       run: swift test -v
 
-name: Build-Test
+name: Main-Build
 
 on: 
   push:
