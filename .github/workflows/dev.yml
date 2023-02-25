@@ -6,7 +6,7 @@ on:
 
 jobs:
   test:
-    name: Test
+    name: Dev-Build
     runs-on: macos-latest
     strategy:
         matrix:

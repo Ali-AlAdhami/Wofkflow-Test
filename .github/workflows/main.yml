@@ -29,7 +29,7 @@ on:
 
 jobs:
   test:
-    name: Test
+    name: Main-Build
     runs-on: macos-latest
     strategy:
         matrix:
