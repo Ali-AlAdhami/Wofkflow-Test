@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "24BE17D729A9C5FE0070AEE6"
-               BuildableName = "Workflow Test.app"
-               BlueprintName = "Workflow Test"
-               ReferencedContainer = "container:Workflow Test.xcodeproj">
+               BuildableName = "WorkflowTest.app"
+               BlueprintName = "WorkflowTest"
+               ReferencedContainer = "container:WorkflowTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "24BE17D729A9C5FE0070AEE6"
-            BuildableName = "Workflow Test.app"
-            BlueprintName = "Workflow Test"
-            ReferencedContainer = "container:Workflow Test.xcodeproj">
+            BuildableName = "WorkflowTest.app"
+            BlueprintName = "WorkflowTest"
+            ReferencedContainer = "container:WorkflowTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "24BE17D729A9C5FE0070AEE6"
-            BuildableName = "Workflow Test.app"
-            BlueprintName = "Workflow Test"
-            ReferencedContainer = "container:Workflow Test.xcodeproj">
+            BuildableName = "WorkflowTest.app"
+            BlueprintName = "WorkflowTest"
+            ReferencedContainer = "container:WorkflowTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

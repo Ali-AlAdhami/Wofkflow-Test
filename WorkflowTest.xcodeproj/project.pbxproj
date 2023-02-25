@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		24BE17D829A9C5FE0070AEE6 /* Workflow Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Workflow Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24BE17D829A9C5FE0070AEE6 /* WorkflowTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorkflowTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		24BE17DB29A9C5FE0070AEE6 /* Workflow_TestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Workflow_TestApp.swift; sourceTree = "<group>"; };
 		24BE17DD29A9C5FE0070AEE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		24BE17DF29A9C6000070AEE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		24BE17D929A9C5FE0070AEE6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				24BE17D829A9C5FE0070AEE6 /* Workflow Test.app */,
+				24BE17D829A9C5FE0070AEE6 /* WorkflowTest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		24BE17D729A9C5FE0070AEE6 /* Workflow Test */ = {
+		24BE17D729A9C5FE0070AEE6 /* WorkflowTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 24BE17E629A9C6000070AEE6 /* Build configuration list for PBXNativeTarget "Workflow Test" */;
+			buildConfigurationList = 24BE17E629A9C6000070AEE6 /* Build configuration list for PBXNativeTarget "WorkflowTest" */;
 			buildPhases = (
 				24BE17D429A9C5FE0070AEE6 /* Sources */,
 				24BE17D529A9C5FE0070AEE6 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Workflow Test";
+			name = WorkflowTest;
 			productName = "Workflow Test";
-			productReference = 24BE17D829A9C5FE0070AEE6 /* Workflow Test.app */;
+			productReference = 24BE17D829A9C5FE0070AEE6 /* WorkflowTest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 24BE17D329A9C5FE0070AEE6 /* Build configuration list for PBXProject "Workflow Test" */;
+			buildConfigurationList = 24BE17D329A9C5FE0070AEE6 /* Build configuration list for PBXProject "WorkflowTest" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				24BE17D729A9C5FE0070AEE6 /* Workflow Test */,
+				24BE17D729A9C5FE0070AEE6 /* WorkflowTest */,
 			);
 		};
 /* End PBXProject section */
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		24BE17D329A9C5FE0070AEE6 /* Build configuration list for PBXProject "Workflow Test" */ = {
+		24BE17D329A9C5FE0070AEE6 /* Build configuration list for PBXProject "WorkflowTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				24BE17E429A9C6000070AEE6 /* Debug */,
@@ -327,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		24BE17E629A9C6000070AEE6 /* Build configuration list for PBXNativeTarget "Workflow Test" */ = {
+		24BE17E629A9C6000070AEE6 /* Build configuration list for PBXNativeTarget "WorkflowTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				24BE17E729A9C6000070AEE6 /* Debug */,
